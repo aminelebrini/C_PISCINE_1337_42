@@ -7,7 +7,7 @@ void ft_print_numbers(void)
     j = '0';
     while (j <= '9')
     {
-        write(1, &i, 1);
+        write(1, &j, 1);
     }
     i++;
     
