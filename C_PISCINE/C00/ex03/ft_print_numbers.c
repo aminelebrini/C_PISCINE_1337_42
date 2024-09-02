@@ -2,7 +2,7 @@
 
 void ft_print_numbers(void)
 {
-    char i;
+    char j;
 
     i = '0';
     while (i <= '9')
