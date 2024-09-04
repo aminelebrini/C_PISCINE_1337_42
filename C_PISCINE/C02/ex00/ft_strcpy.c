@@ -8,6 +8,6 @@ char	*ft_strcpy(char *dest, char *src)
 		dest[j] = src[j];
 		j++;
 	}
-	dest[i] = '\0';
+	dest[j] = '\0';
 	return (dest);
 }
