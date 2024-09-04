@@ -3,9 +3,9 @@ char	*ft_strcpy(char *dest, char *src)
 	int	j;
 
 	j = 0;
-	while (src[i] != '\0')
+	while (src[j] != '\0')
 	{
-		dest[i] = src[i];
+		dest[j] = src[i];
 		i++;
 	}
 	dest[i] = '\0';
