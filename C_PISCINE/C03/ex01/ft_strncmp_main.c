@@ -22,5 +22,5 @@ int	ft_strncmp(char *s1, char *s2, unsigned int n)
 
 int	main()
 {
-	printf("%d", ft_strncmp("khouribga", "med", 8));
+	printf("%d", ft_strncmp("khouribga", "benguerir", 10));
 }
