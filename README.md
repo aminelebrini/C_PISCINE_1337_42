@@ -1,7 +1,7 @@
 
 
 <img src="https://th.bing.com/th/id/R.f9dec753bb3e90b87d35f9af7fb50c80?rik=Jql2oFXcPZ%2fi6w&pid=ImgRaw" alt="Bing Image">
-<img src="https://th.bing.com/th/id/OIP.nb9Mi-GDS4ECW7IZ0s-aJwAAAA?rs=1&pid=ImgDetMain" alt="42 THE NETWORK">
+<img src="https://imgs.search.brave.com/JwB40k_BAdOpkdibJCI3NjWGUHcIWRktP1PY3qhSKvA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/NDJuZXR3b3JrLm9y/Zy93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NC8wNC80Mi5zdmc" alt="42 THE NETWORK">
   
 <h1 align="center">Hi 👋, I'm LEBRINI AMINE</h1>
 <h3 align="center">A passionate developer from MOROCCO</h3>
